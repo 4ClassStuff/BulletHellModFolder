@@ -725,8 +725,8 @@ entityDef player_marine
 	"maxhealth"						"1"
 	"armor"							"0"
 	"maxarmor"						"0"
-	"minRestoreHealth0"					"20"		// Minimum health when loading a game for skill level 0
-	"minRestoreHealth1"					"10"		// Minimum health when loading a game for skill level 1
+	"minRestoreHealth0"					"0"		// Minimum health when loading a game for skill level 0
+	"minRestoreHealth1"					"0"		// Minimum health when loading a game for skill level 1
 
 	// ammo
 	"ammo_railgun"						"0"
